@@ -2,8 +2,8 @@
 Contains three ipthon notebooks as well as links to each on collab.
 
 # Contents : 
-- Signals_Labels : For spectroram generation, visualisation and clustering strategies.
-- CNN_tvt : For CNN models and experiemnts run with original dataset and train/val/test split.
-- CNN_LOSOS : For CNN models and experiments run with augmented datast and leave-one-subject-out cross validation.
+- Spectrograms_Labels : Spectroram generation, visualisation and clustering strategies.
+- CNN_Baseline : Initial experiemnts with baseline CNN model and original dataset
+- CNN_Attention : Contains all models (baseline, Attention 1 and Attention 2), trained on the augmented dataset using LOSO cross validation. 
 
 
